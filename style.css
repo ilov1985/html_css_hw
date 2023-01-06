@@ -2,6 +2,10 @@
     background-color: blue;
 }
 
+.carousel-indicators {
+    height: 15px;
+}
+
 .carousel-control-prev-icon {
     background-color: red;
 }
